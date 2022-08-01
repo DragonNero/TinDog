@@ -2,7 +2,8 @@
   background-color: #ff4c68;
 }
 #navbarTogglerDemo01 {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
+  font-family: "Montserrat"
 }
 body {
   font-family: "Montserrat";
@@ -14,12 +15,17 @@ h1 {
   margin-top: 120px;
   margin-bottom: 40px;
 }
+.row{
+  margin:0 0 4.5rem;
+}
 .container-fluid {
   padding: 3% 15%;
 }
 .navbar-brand {
   font-family: "Ubuntu";
   font-size: 3rem;
+  font-weight: bold;
+  margin-left: 10px;
 }
 .h1-first-title {
   color: white;
