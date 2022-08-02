@@ -29,7 +29,6 @@ font-size: 1.5rem;
   padding: 3% 15%;
   margin-bottom: 0;
   padding-bottom: 0;
-  margin-bottom: 0;
 }
 .navbar-brand {
   font-family: "Ubuntu";
@@ -48,7 +47,6 @@ font-size: 1.5rem;
 }
 .icons {
   color: #ef8172;
-  font-size: 4rem;
   margin-bottom: 20px;
 }
 
@@ -60,10 +58,10 @@ font-size: 1.5rem;
   margin-top: 50px;
 }
 
-.feauters {
-  margin-top: 50px;
-  margin-bottom: 50px;
-  padding-right: 30px;
+.feauter-box {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding: 5%;
   text-align: center;
 }
 
