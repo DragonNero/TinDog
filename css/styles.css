@@ -3,17 +3,22 @@
 }
 #navbarTogglerDemo01 {
   font-size: 1.2rem;
-  font-family: "Montserrat"
+  font-family: "Montserrat";
 }
 body {
   font-family: "Montserrat";
 }
 h1 {
   font-weight: 900;
-  font-size: 3rem;
+  font-size: 3.5rem;
   line-height: 1.5;
   margin-top: 120px;
   margin-bottom: 40px;
+}
+h3 {
+font-weight: bold;
+font-family: "Montserrat";
+font-size: 1.5rem;
 }
 .row{
   margin:0 0 4.5rem;
@@ -35,4 +40,11 @@ h1 {
   margin-top: 100px;
   max-width: 80%;
   max-height: 80%;
+}
+.icons {
+  color: #ef8172;
+}
+
+.icons-text2 {
+  color: #8f8f8f;
 }
