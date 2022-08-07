@@ -1,5 +1,7 @@
 #title {
   background-color: #ff4c68;
+  padding-bottom: 0;
+  margin-bottom: 0;
 }
 #navbarTogglerDemo01 {
   font-size: 1.2rem;
@@ -25,8 +27,8 @@
   margin-top: 0;
   padding-top: 0;
   background-color: white;
-  position: absolute;
-  z-index: 2;
+  position: relative;
+  z-index: 1;
 }
 
 #pricing {
@@ -74,13 +76,10 @@ font-size: 1.5rem;
 }
 .rotate {
   transform: rotate(20deg);
-  margin-top: 100px;
+  margin-top: 0;
   max-width: 80%;
   max-height: 80%;
   position: absolute;
-  z-index: 1;
-  padding-bottom: 0;
-  margin-bottom: 0;
 }
 .icons {
   color: #ef8172;
