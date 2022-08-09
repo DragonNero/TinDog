@@ -4,15 +4,19 @@
   margin-bottom: 0;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1028px) {
   #title {
     padding-bottom: 0;
+    margin-bottom: 0;
+    text-align: center;
   }
 }
 
 @media (max-width: 1028px) {
   .img-div  {
     min-height: 600px;
+    margin-bottom: 0;
+    padding-bottom: 0;
   }
 }
 
@@ -103,6 +107,11 @@ font-size: 1.5rem;
     position: static;
     transform: rotate(0);
     padding-top: 50px;
+    padding-left: 0;
+  }
+  .container-fluid {
+    padding-bottom: 0;
+    margin-bottom: 0;
   }
 }
 
