@@ -1,13 +1,23 @@
 #title {
   background-color: #ff4c68;
-  padding-bottom: 200px;
+  padding-bottom: 100px;
   margin-bottom: 0;
 }
+
 @media (max-width: 992px) {
   #title {
     padding-bottom: 0;
   }
 }
+
+@media (max-width: 992px) {
+  .img-div  {
+    min-height: 400px;
+  }
+}
+
+
+
 #navbarTogglerDemo01 {
   font-size: 1.2rem;
   font-family: "Montserrat";
@@ -61,6 +71,7 @@ h3 {
 font-weight: bold;
 font-size: 1.5rem;
 }
+
 .row{
   margin:0 0 4.5rem;
 }
@@ -68,8 +79,8 @@ font-size: 1.5rem;
 .container-fluid {
   margin-bottom: 0;
   padding-bottom: 5%;
-
 }
+
 .navbar-brand {
   font-family: "Ubuntu";
   font-size: 3rem;
