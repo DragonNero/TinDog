@@ -54,6 +54,13 @@
   text-align: center;
 }
 
+
+#cta {
+  background-color: #ff4c68;
+  color: #fff;
+  padding: 7% 15%;
+}
+
 body {
   font-family: "Montserrat";
 }
